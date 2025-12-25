@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="690e7e66-7686-47fe-8747-f539548acd70" name="Changes" comment="" />
+    <list default="true" id="690e7e66-7686-47fe-8747-f539548acd70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +64,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER PREDITOR\WebstormProjects\untitled" />
       <recent name="C:\Users\ACER PREDITOR\WebstormProjects\untitled\controllers" />
       <recent name="C:\Users\ACER PREDITOR\WebstormProjects\untitled\.idea" />
     </key>
@@ -87,7 +90,7 @@
       <workItem from="1766463653089" duration="576000" />
       <workItem from="1766609364727" duration="3034000" />
       <workItem from="1766654795655" duration="250000" />
-      <workItem from="1766656256019" duration="336000" />
+      <workItem from="1766656256019" duration="691000" />
     </task>
     <servers />
   </component>
